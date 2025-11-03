@@ -5,3 +5,6 @@ Post
 DELETE (menghapus id 1)
 
 <img width="959" height="537" alt="image" src="https://github.com/user-attachments/assets/fb732919-9ba5-4b08-8ef9-950bd2f28044" />
+
+PUT (update nama pengarang)
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/9999f1a7-4574-46df-a684-da76f520b21d" />
